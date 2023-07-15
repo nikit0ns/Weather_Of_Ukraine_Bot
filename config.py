@@ -1,2 +1,0 @@
-TOKEN = '5852169151:AAHbB8VUlMU6S0uaUvoGduZIynDupcbE9Ik'
-Open_Weather_Token = '76eab5554dd59c020272ba11b09cd78d'
