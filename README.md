@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua/)
+
 # @Weather_Of_Ukraine_Bot - Telegram Bot
 
 - :sun_behind_large_cloud: The Bot will write a Weather Forecast for your city in Telegram.
